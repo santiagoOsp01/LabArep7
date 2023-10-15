@@ -50,6 +50,7 @@ public class SecureURLReader {
             e.printStackTrace();
         }
         String url = "https://ec2-54-89-136-172.compute-1.amazonaws.com:5001/login?v="+user+"&t="+password;
+        //String url = "https://localhost:5001/login?v="+user+"&t="+password;
         return getContent(url);
     }
     public String getContent(String url) throws IOException {
