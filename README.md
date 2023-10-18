@@ -88,7 +88,7 @@ en esta la primera maquina contiene las pagina web y el lector de url, aqui es d
 
 ### Extensibilidad
 
-como ya tenemos los certificados, es relativamente sencillo agregar los servicios ya que despues del login podemos implementar diferentes tipos de servicios, ya que no tenemosuna restriccion, entonces con los certificados se pueden acceder a diferentes paginas y apis, y estas no nos deberian de generar algun problema
+como ya tenemos los certificados, es relativamente sencillo agregar los servicios ya que despues del login podemos implementar diferentes tipos de servicios, ya que no tenemos restriccion, entonces con los certificados se pueden acceder a diferentes paginas y apis desde nuestor codigo asi como agregar mas maquinas con diferentes servicios corriendos, y estos no nos deberian de generar algun problema.
 
 ### Version
 
