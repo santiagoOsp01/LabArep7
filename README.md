@@ -74,7 +74,7 @@ en el siguiente video podemos ver el funcionamiento en la nube
 
 https://github.com/santiagoOsp01/LabArep7/assets/111186366/43399fb2-7522-45e3-8359-b77e5b01ca9d
 
-## Diseño
+### Diseño
 
 para poder realizar la arquitectura propuesta y tener 2 tipos de servicios se separaron los servicios en diferentes componenetes donde cada uno contiene un main que se debe correr individuamente, por eso tenemos uno que contiene la pagina del login, y la pagina cuando el login sea aceptado, y tambien el servicio de login seguro que se encarga de toda la logica del login.
 
